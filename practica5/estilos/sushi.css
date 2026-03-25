@@ -1,0 +1,35 @@
+body{
+	background: lightblue;
+	color: black;
+	font-family: century gothic;
+}
+
+
+/*Titulo con otro tipo de letra y otro color*/
+
+h1{
+
+	font-family: courier;
+	color: blueviolet;
+}
+
+/*El parrafo #2 que es el del diablo, ponerlo en negritas y cursiva*/
+
+.elcoco{
+	font-weight: bolder;
+	font-style: italic;
+}
+
+/*Enlacede 2 color verde y negritas*/
+
+a{
+	color: green;
+	font-weight: bolder;
+}
+
+/*Enlace 1 de color amarillo y tamaño 20*/
+
+p a{
+	color: yellow;
+	font-size: 20px;
+}
